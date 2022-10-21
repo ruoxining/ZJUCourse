@@ -1,0 +1,158 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@900&display=swap" rel="stylesheet">
+
+    <style>
+        *{
+
+        }
+        img{
+            width: auto;
+            height: auto;
+            max-width: 90%;
+            max-height: 90%;
+        }
+        div{
+            margin-bottom: 0;
+            margin-left: 150px;
+            margin-right: 120px;
+            text-align: center;
+        }
+        a:link{
+            text-decoration: none
+        }
+        .heading{
+            font-family: 'Noto Sans SC', sans-serif;
+            font-size: 120px;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .subheading{
+            text-align: center;
+            font-size: 60px
+        }
+        .textbox{
+            text-align: center;
+        }
+        .mark{
+            text-align: right;
+            font-size: 12px;
+        }
+        .text{
+            text-align: left;
+        }
+        .arrow{
+
+            max-width: 70px;
+            max-height: 70px;
+        }
+    </style>
+</head>
+<body>
+    <div class = 'textbox'>
+        <h1 class = 'heading'>
+            BoardGame Optimization Bot
+        </h1>
+        <img class = 'arrow' src="./assets/下箭头.svg" alt="">
+    </div>
+    <div>
+        <img src="./assets/overview1.png" alt="">
+        <h3>
+            <a href="https://public.tableau.com/app/profile/mark.corbridge/viz/BoardgameOptimisationBot/BOB-9000">点击探索</a>
+        </h3>
+    </div>
+    <div class = 'textbox'>
+        <h3 class = 'subheading'>
+            背景介绍
+        </h3>
+        <p class = 'text'>
+            &emsp;&emsp;该可交互可视化作品是一个基于人工智能系统和<a href="https://boardgamegeek.com/">https://boardgamegeek.com/</a>桌游数据集的桌游选择器。
+            <br>
+            <br>
+            &emsp;&emsp;作者针对市面上桌游数量泛滥、聚会时选择桌游困难的普遍困境，提出了“Human lives are short, and the choices of boardgames is large(人生有限，桌游无限)”的概念，并称使用该桌游选择器，你的桌游体验将更加从容、优雅、充实。
+            <br>
+            <br>
+            &emsp;&emsp;本作品利用机器学习方法先将桌游按照语义与数据关系进行处理，将桌游按照相互关系聚合在一张图片上，其意义相当于时兴的一幅桌游的“知识图谱（Knowledge Graph）”。
+            <br>
+            <br>
+
+        </p>
+        <br><br><br><br>
+    </div>
+    <div class = 'textbox'>
+        <h3 class = 'subheading'>
+            可视化介绍
+        </h3>
+        <p class = 'text'>
+            &emsp;&emsp;圆形界面中展示了大量桌游，每款桌游分别对应圆盘中的每一个点。 点的不同颜色代表桌游的不同类型：策略、剧情、战争、抽象、自定义……如作品的附表所示：
+            <br>
+            <br>
+        </p>
+            <img src="./assets/color.png">
+        <p class = 'text'>
+            <br>
+            <br>
+            &emsp;&emsp;点的颜色越深，代表该游戏被玩家评分越高。
+            <br>
+            <br>
+            &emsp;&emsp;在圆盘中，桌游按照其难度和类型有规律排布：点的位置越偏上，代表游戏人数越多，反之游戏人数越少；点的位置越偏左，表示该游戏难度越高，反之难度越低。
+            <br>
+            <br>
+        </p>
+            <img src="./assets/semantic.png">
+        <p class = 'text'>
+            <br>
+            <br>
+            &emsp;&emsp;点击选择界面中的一个点（一款桌游），用户可以分别查看桌游的名称、评分、难度、适合游戏人数。 图表还会展示与该点相近的五个点，向你推荐与当前桌游在难度、主题和游戏人数等各维度上最相似的五款其它桌游。
+            <br>
+            <br>
+        </p>
+        <br><br><br><br>
+    </div>
+    <div class = 'textbox'>
+        <h3 class = 'subheading'>
+            亮点介绍
+        </h3>
+        <p class = 'text'>
+            &emsp;&emsp;该作品创新性强、视觉美观、数据直观、交互操作便捷。
+            <br>
+            <br>
+            &emsp;&emsp;针对市面上桌游数量大、选择桌游困难的局面，传统的桌游数据表征方法是用模糊的自然语言描述，或使用机器学习程序输出，用枯燥的数字或表格展示数据，这些数据展示方法并不直观，也不美观。
+            作者创新地选择了数据可视化图表处理这一问题，使这幅“桌游图谱”清晰易读。
+            <br>
+            <br>
+            &emsp;&emsp;图表形状间接，颜色搭配美观。
+            <br>
+            <br>
+            &emsp;&emsp;该圆形图表排列有序，使桌游的各种属性、桌游与桌游之间的亲疏关系一目了然。
+            <br>
+            <br>
+            &emsp;&emsp;只需对图像进行点击操作就可以直观看出桌游的基本信息与桌游间的语义关系，操作便捷。
+            <br>
+            <br>
+            &emsp;&emsp;总之，这是一幅新颖、美观、优秀的可视化作品。
+        </p>
+        <p class = "mark">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            桌游推荐器（2021年3月11日）by Mark Corbridge   from Tableau
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </p>
+
+    </div>
+</body>
+</html>

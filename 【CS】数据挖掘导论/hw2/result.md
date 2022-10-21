@@ -1,0 +1,26 @@
+# Task2: 
+
+使用不同的test/validation划分运行三次
+
+第一次
+
+MSE: 1439646042.6805317
+MAE: 22930.131635531554
+
+第二次
+
+MSE: 1221448549.6218858
+MAE: 22048.196991505763
+
+第三次
+
+MSE: 1637454049.0214756
+MAE: 23168.942672324876
+
+# Task3:
+
+Linear kernal, SVM precision: 0.8253424657534246
+
+Rbf kernal, SVM precision: 0.7054794520547946
+
+Logistic regression: 0.7157534246575342

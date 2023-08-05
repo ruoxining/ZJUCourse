@@ -1,6 +1,6 @@
 # W1
 
-不知道讲了啥 syllabus吗
+讲了syllabus
 
 # W2
 
@@ -14,13 +14,9 @@ High Horse
 
 The less I know better-Tame Impala
 
- 
-
 Chorus: The main part of the song, which reoccurs in the song. Usually seen in a pop or a jazz music.
 
-buzz 
-
-
+buzz
 
 Folk: on the lyrics, soft, lullaby, family, friends, sometimes political
 
@@ -28,9 +24,7 @@ Jazz:
 
 Country:
 
-vocal 
-
-
+vocal
 
 #### vocabulary
 
@@ -38,7 +32,7 @@ type(country, hip pop, popular, rock, classical, rhythm & blues, rap, jazz, fold
 
 # W3
 
-Choices: 
+Choices:
 
 a female Caucasian teacher, 25
 a female Asian athlete, 22
@@ -52,8 +46,6 @@ a male Caucasian doctor, 35, who is homosexual
 a male Caucasian farmer, 45, who is a racist
 
 Caucasian: white
-
-
 
 choose the female athlete/pregnant artist/male carpenter/soldier/doctor
 
@@ -79,11 +71,11 @@ Fashion Design:
 
 Dress code
 
-HP: We don’t have any global dress code. 
+HP: We don’t have any global dress code.
 
 ##### A.   Fashion Design and Pop Culture
 
-Fashion design is related to the pop culture, an expression of modern society. 
+Fashion design is related to the pop culture, an expression of modern society.
 
 Various aspects: economy, politics, culture, science, technology, climate
 
@@ -101,11 +93,11 @@ Italian: Young people like casual brands, while women choose to wear more elegan
 
 Fashion design in different seasons/career and costume design (judge engineer manager priest cook farmer doctor pilot worker)
 
-Major fashion brands: Dior Gucci 
+Major fashion brands: Dior Gucci
 
 ##### B.   Copyright Protection in Fashion Design
 
-Status of copyright issues: 
+Status of copyright issues:
 
 In the fashion industry, there is very little intellectual property protection. There is trademark protection, but no copyright protection and no patent protection to speak of. (Fang 2012:104) The phenomenon is widespread all over the world.
 
@@ -132,29 +124,26 @@ The virtues of copying for fashion design:
  Stuart Weitzman, a successful shoe designer has often complained about people copying him. But in an interview, he said it has really forced him to consider new concepts and ideas that would be hard to copy. He created a Bowden-wedge heel that requires steel or titanium, if cheaper material is used, it will fall apart (Fang, 2012:107)
 
 1. Customers have more options to buy various fashion garments with reasonable prices.
-
 2. Promoting the garment industry must meet the fashion demands of consumers quickly through continuous innovation and update.
-
 3. Promoting the fashion industry establishes reasonable rules and standards.
-
 4. Creating cultural exchanges an integration of various countries promotes international trends in the fashion design industry.
 
 #### Dress & Fashion Design Pair Work Questions
 
 ##### 1) What is your feeling about the presence of 'knock-offs' in the fashion market?
 
-*As we talked about last class, "knock-offs" means plagiarism. And plagiarism is illegal. Every designer should never copy others' drafts.* 
+*As we talked about last class, "knock-offs" means plagiarism. And plagiarism is illegal. Every designer should never copy others' drafts.*
 
 *The thing is, it is really hard to tell whether a work is copied or not. As I have taken design courses before, I know that to be a good designer, one should admire hundreds of thousands of others good designs.  And when you make your own design, some works you saw before would just come up in your mind even without conscience. That's why some designer didn't intend to copy, but after their works done, they may suddenly find that their works are so similar to some other famous designs.*
 
-*And how can clothes producers avoid the loss by this kind of phenomena?* 
+*And how can clothes producers avoid the loss by this kind of phenomena?*
 
 1. *to raise the product's quality. So that for the products of the same style, consumers would chose yours.*
-2. *to make your design in a very specific style. Apple Material Design* 
+2. *to make your design in a very specific style. Apple Material Design*
 
 ##### 2) How do factors such as profession or technology affect a company's dress code?
 
-*The reason why a company set a set of dress code is to* 
+*The reason why a company set a set of dress code is to*
 
 *safety*
 
@@ -213,12 +202,12 @@ IQ test: focus on liguistics / math ability, high education required. too commer
 
 Multiple intelligence theory (Howard Gardner, Harvard) (adopted from the University of Nottingham)
 
-##### Types: 
+##### Types:
 
 linguistic & verbal, logical, spacial, kinaestic (动觉的), Musical, Interpersonal, naturalistic
 
 | **A** | **4**               |
-| ----- | ------------------- |
+| ----------- | ------------------------- |
 | **B** | **7** logical       |
 | **C** | **7** spatial       |
 | **D** | **2**               |
@@ -267,13 +256,13 @@ thanks
 
 if you don't mind me asking?
 
-dinner table: if somebody is giving you food, you can say: sure, thank you/ thank you but  
+dinner table: if somebody is giving you food, you can say: sure, thank you/ thank you but
 
 sneeze: “God bless you!”
 
 if you are not able to accept an invitation: I am afraid that I am not able to
 
-have no time: could you give me 1 more minutes? 
+have no time: could you give me 1 more minutes?
 
 at MacDonald: have a hamburger please?
 
@@ -281,7 +270,7 @@ strangers excuse me  /  friends: nice to meet you
 
 #### letter&e-mail closing
 
-nice to meet you. long time no see. Good news: congratulations. Best wishes! 
+nice to meet you. long time no see. Good news: congratulations. Best wishes!
 
 waiting for your good news/ wishing for your success/ wish you a happy New Year
 
@@ -367,23 +356,17 @@ prepare a dialogue with my study partner
 
 be in any situation: factory, millitary
 
-talent competition: music, dance, if don't have just pretend sth. 
+talent competition: music, dance, if don't have just pretend sth.
 
 skills: humor, musical, serious or complex, acting, role play
 
 could read the script
 
-
-
 5 minutes
-
-
 
 # 5.11
 
 vocabulary about talent
-
-
 
 # 5.18 American TV shows
 
@@ -421,7 +404,7 @@ HBO and Cinemax play patriotic films
 
 1960 9/10 US families own a TV set
 
-1980 MTV 
+1980 MTV
 
 1990 98% TV set
 

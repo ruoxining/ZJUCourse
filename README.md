@@ -59,6 +59,6 @@
 
 ## 相似资源指路
 
-<a href="https://github.com/stars/ruoxining/lists/zju-course-materials"> ZJU course materials repo list <\a>
+[ZJU course materials repo list]{https://github.com/stars/ruoxining/lists/zju-course-materials}
 
 这里是一个自己整的ZJU课程资料repo列表。本仓库没有照搬列表中仓库的内容，均为自己分类整理并删除过时资料留下的内容，此外也有大量自己从其他渠道搜集或撰写的内容。

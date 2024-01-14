@@ -59,7 +59,7 @@ A4必须手写，好像目前我遇到的考试里只有 OS 的 3 页是允许�
   
 - 1/16 抄了 scoreborad / Tomasulo / Tomasulo with ROB 的一个对比表格，这个表格在瓜豪直播里看见的，现在找不到了，如果找到我补上
   
-- 3/16 分别抄了个 scoreborad / Tomasulo / Tomasulo with ROB 例题，这三个算法我速成用的这套帖子 [计算机体系结构-记分牌ScoreBoard](https://zhuanlan.zhihu.com/p/496078836) [计算机体系结构-Tomasulo算法](https://zhuanlan.zhihu.com/p/499978902) [计算机体系结构-重排序缓存ROB](https://zhuanlan.zhihu.com/p/501631371)
+- 3/16 分别抄了个 scoreborad / Tomasulo / Tomasulo with ROB 例题，这三个算法我速成用的这套帖子 [计算机体系结构-记分牌ScoreBoard](https://zhuanlan.zhihu.com/p/496078836)， [计算机体系结构-Tomasulo算法](https://zhuanlan.zhihu.com/p/499978902)， [计算机体系结构-重排序缓存ROB](https://zhuanlan.zhihu.com/p/501631371)
 
 - 1/16 抄了有 TOS POS 那五个概念的流程图（对不起仅仅一天我已经忘了这块是讲的啥了），在上面我给的智云链接里有这个图。选择题考到了一个，问哪个消除了 W->R W->W 依赖之类的。
   

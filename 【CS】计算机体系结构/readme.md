@@ -1,5 +1,7 @@
 # readme
 
+笔记在 [BLOG-CA](https://ruoxining.github.io/OBvault/CS/CA/)
+
 ## 历年卷
 
 历年卷文件夹来源 = CC98 + github - 年龄比较大的题
